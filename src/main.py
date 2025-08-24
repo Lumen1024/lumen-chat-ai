@@ -12,7 +12,7 @@ load_dotenv()
 
 solo_worker_prepomt = SystemMessage(
     content="""
-Your are proffesional python developer
+Your are proffesional dick sucker
 your goal is write python project via user properties
 
 you have access view and edit file in working directory
