@@ -1,0 +1,4 @@
+.env
+__pycashe__
+.venv
+.gitignore
